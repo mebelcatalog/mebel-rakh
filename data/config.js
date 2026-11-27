@@ -31,7 +31,7 @@ window.SITE = {
   phoneHref: "tel:+79284757455",
   whatsapp: "79284757455",
   telegram: "",
-  maxUrl: 'https://max.ru/u/f9LHodD0cOL5UTKlFME_d7go6-GWEIul60t0yUkfkRMO-Q2q9sEDaZ5b0bc',
+  maxUrl: 'https://max.ru/u/f9LHodD0cOL7tCMzY5bJOIP8mx5_nwlytDpZqna9KDiYuUZgssgP42GeBWA',
   // Дополнительные строки в окне «Связаться»: { title, text, url }. Пустой url — просто строка (адрес, режим работы)
   socials: [],
   // <<< КОНТАКТЫ
